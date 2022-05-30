@@ -73,7 +73,7 @@
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/antfu/vitesse-lite/generate).
+[使用这个模板创建仓库](https://github.com/antfu/vitesse-lite/generate).测试测试
 
 ### 克隆到本地
 
